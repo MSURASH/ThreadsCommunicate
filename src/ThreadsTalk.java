@@ -16,6 +16,8 @@ public class ThreadsTalk {
 	                }
 	                System.out.println("A 2");
 	                System.out.println("A 3");
+	                System.out.println("A 4");
+
 	            }
 	        }
 	    });
