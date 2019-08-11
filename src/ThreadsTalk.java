@@ -46,6 +46,10 @@ public class ThreadsTalk {
 	                System.out.println("C 1");
 	                System.out.println("C 2");
 	                System.out.println("C 3");
+	                System.out.println("C 4");
+	                System.out.println("C 5");
+
+
 	                lock.notify();
 	            }
 	        }
